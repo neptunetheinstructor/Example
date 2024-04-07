@@ -1,0 +1,1 @@
+print("Hello world! This is an example file for a demonstration.")
